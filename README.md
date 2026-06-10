@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌡️ WetBulb Weather
 
 A premium, full-stack weather web application featuring real-time weather data with wet bulb temperature analysis, air quality metrics, and beautiful glassmorphism UI.
@@ -79,3 +80,7 @@ Where T = temperature (°C), RH = relative humidity (%).
 ## License
 
 MIT
+=======
+# Wet-Bulb
+Weather Website
+>>>>>>> bad64460eb7f88910c2719704d0fe04c5e897303
