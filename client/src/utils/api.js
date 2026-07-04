@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://wet-bulb.onrender.com',
+  baseURL: 'https://wet-bulb.onrender.com/api',
   timeout: 10000,
 });
 
